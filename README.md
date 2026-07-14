@@ -13,7 +13,6 @@ with a bias for clean architecture, performance, and security.
 
 </div>
 
-
 ### What I build
 
 12+ years shipping across **frontend, backend, cloud, and security** - from concept to production.
