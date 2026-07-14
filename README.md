@@ -13,7 +13,6 @@ with a bias for clean architecture, performance, and security.
 
 </div>
 
----
 
 ### What I build
 
@@ -49,9 +48,3 @@ RAG systems, and agent workflows. Everything below runs on my own infra (Vercel 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 Security-certified (AWS Solutions Architect · Developer, CompTIA PenTest+, CEH).
-
-<div align="center">
-
-![Bunlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunlongheng&show_icons=true&hide=stars&theme=default&hide_border=true&count_private=true)
-
-</div>
