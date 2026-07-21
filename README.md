@@ -62,6 +62,8 @@ real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, ato
 | <img src="https://www.bunlongheng.com/app-icons/moments.png" width="26"> | **moments** | Self-hosted digital photo frame - LAN sync, Pi kiosk | [code](https://github.com/bunlongheng/moments) |
 | <img src="https://www.bunlongheng.com/app-icons/rounded/worldcup-2026.png" width="26"> | **worldcup26** | World Cup 2026 companion - flag wall, bracket, 3D globe | [live](https://worldcup26-bheng.vercel.app) · [code](https://github.com/bunlongheng/worldcup26) |
 | <img src="https://www.bunlongheng.com/app-icons/rounded/countries.png" width="26"> | **countries** | All 194 nations - flags, stats, landmarks on a map + 3D globe | [live](https://countries-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/solar-system.png" width="26"> | **solar-system** | Interactive solar-system explorer - planets, orbits, and facts | [live](https://solar-system-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/periodic-table.png" width="26"> | **periodic-table** | All 118 elements - color-coded, responsive periodic table | [live](https://periodic-table-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/rounded/country-maker.png" width="26"> | **country-maker** | Design your own country flag - layouts, emblems, PNG export | [live](https://country-maker-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-maker) |
 | <img src="https://www.bunlongheng.com/app-icons/states.png?v=1" width="26"> | **states** | All 50 US states - quiz-style explorer | [live](https://games-bheng.vercel.app/states) |
 | <img src="https://www.bunlongheng.com/app-icons/games.png" width="26"> | **games** | Browser mini-games - spelling bee, math hero, coloring island | [live](https://games-bheng.vercel.app) · [code](https://github.com/bunlongheng/games) |
@@ -76,20 +78,38 @@ real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, ato
 | <img src="https://www.bunlongheng.com/app-icons/claude.png" width="26"> | **claude-dashboard** | Self-hosted command center for Claude Code - sessions, agents, RAG memory | [about](https://bunlongheng.com/portfolio/claude-dashboard) |
 | <img src="https://www.bunlongheng.com/app-icons/3pi.png" width="26"> | **manager-dashboard** | EM command center - sprints, PRs, team activity, and QA across repos | [about](https://bunlongheng.com/portfolio/3pi) |
 
-### Skills I run daily
+### Skills I built for work
 
-A few of the 100+ custom Claude Code skills (slash commands) I have built - they run my day:
+Top 10 of the 100+ custom Claude Code skills (slash commands) I have written - these run my day as an engineering lead:
 
 | Skill | What it does |
 |---|---|
-| `/show-skills` | Lists every custom skill in a compact table - my toolbox index |
-| `/skill-architect` | Turns any skill into a shareable infographic |
-| `/zeta-pr-audit` | Reviews team PRs for the worst mistakes, self-verifies findings, stages the top 3 comments |
-| `/zeta-pr-closure` | Closure board for every open PR - buckets by whose move it is, auto-verifies fixes |
+| `/zeta-pr-audit` | Reviews team PRs for the worst mistakes, self-verifies each finding, stages the top 3 comments |
+| `/zeta-pr-closure` | Closure board for every open PR - buckets by whose move it is, auto-verifies author fixes |
 | `/zeta-deploy` | Step-by-step stage and prod deploy assistant with live Jira cross-referencing |
+| `/zeta-epic-audit` | Deep epic audit - live child issues, pre-sprint gates, blockers, and risks |
+| `/zeta-qa` | Silent QA tester - verifies every ticket's acceptance criteria read-only, scores quality |
+| `/zeta-standup` | Writes my daily standup from Jira, git, GitHub, and calendar |
+| `/zeta-metrics` | Sprint velocity, throughput, and cycle time in one report |
 | `/zeta-split` | Smart-splits the QA tester queue by rotation with self-test guards |
 | `/zeta-chores` | Assigns sprint roles - on-call, deploy captain, QA rotation |
 | `/zeta-activity` | Daily per-person activity report across Jira, GitHub, and Slack |
+
+### Everyday skills
+
+The generic ones I reach for constantly, on any repo or machine:
+
+| Skill | What it does |
+|---|---|
+| `/repo-audit` | Reverse-engineers any repo through 10 lenses into one graded HTML report |
+| `/resource-audit` | Detects stray processes - duplicate dev servers, orphaned ports, runaway CPU/RAM |
+| `/storage-audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes only on approval |
+| `/repo-public-audit` | Pre-open-source safety scan - secrets, history leaks, personal info, BLOCK/WARN/OK verdict |
+| `/session-recap` | Summarizes a working session - what we did and learned - into a polished HTML recap |
+| `/screenshots` | Crawls a URL and captures full HD screenshots in every device mode |
+| `/sitemap` | Crawls any site and emits an animated orbit-graph site map |
+| `/show-skills` | Lists every custom skill in a compact table - my toolbox index |
+| `/skill-architect` | Turns any skill into a shareable infographic |
 
 <div align="center">
 
