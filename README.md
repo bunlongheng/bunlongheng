@@ -33,7 +33,7 @@ real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, ato
 | <img src="https://www.bunlongheng.com/app-icons/diagrams.png" width="26"> | **diagrams** | English in, rendered diagram out - custom SVG sequence engine | [live](https://diagrams-bheng.vercel.app) · [code](https://github.com/bunlongheng/diagrams) |
 | <img src="https://www.bunlongheng.com/app-icons/system-design.png" width="26"> | **system-design** | Interactive AWS / distributed-system architecture diagrams | [code](https://github.com/bunlongheng/system-design) |
 | <img src="https://www.bunlongheng.com/app-icons/automations.png" width="26"> | **automations** | Visual node-graph automation flow builder | [code](https://github.com/bunlongheng/automations) |
-| <img src="https://www.bunlongheng.com/app-icons/score-card.png" width="26"> | **score-card** | Technical-interview scorecard with rubrics + AI summaries | [live](https://score-card-bheng.vercel.app) · [code](https://github.com/bunlongheng/score-card) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/score-card.png" width="26"> | **score-card** | Technical-interview scorecard with rubrics + AI summaries | [live](https://score-card-bheng.vercel.app) · [code](https://github.com/bunlongheng/score-card) |
 | <img src="https://www.bunlongheng.com/app-icons/mindmaps.png" width="26"> | **mindmaps** | PWA mind-mapping studio - draw, paste, or generate with AI | [live](https://mindmaps-bheng.vercel.app) · [code](https://github.com/bunlongheng/mindmaps) |
 | <img src="https://www.bunlongheng.com/app-icons/decks.png" width="26"> | **decks** | AI slide-deck generator - topic in, polished HTML deck out | [code](https://github.com/bunlongheng/decks) |
 | <img src="https://www.bunlongheng.com/app-icons/erd.png?v=2" width="26"> | **erd** | Paste SQL CREATE TABLEs, get a polished ER diagram | [live](https://erd-bheng.vercel.app) · [code](https://github.com/bunlongheng/erd) |
@@ -51,7 +51,7 @@ real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, ato
 | <img src="https://www.bunlongheng.com/app-icons/stickies-native.png?v=2" width="26"> | **stickies-native** | Native macOS sticky-notes app in SwiftUI | [code](https://github.com/bunlongheng/stickies-native) |
 | <img src="https://www.bunlongheng.com/app-icons/stickies.png" width="26"> | **stickies** | Sticky-notes platform - full API, AI rewrites, CLI + iPad | [live](https://stickies-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/frames.png" width="26"> | **frames** | Wrap screenshots in realistic device frames | [code](https://github.com/bunlongheng/frames) |
-| <img src="https://www.bunlongheng.com/app-icons/responsiveness.png?v=2" width="26"> | **responsiveness** | Preview any URL across real device frames | [live](https://responsiveness-bheng.vercel.app) · [code](https://github.com/bunlongheng/responsiveness) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/responsiveness.png" width="26"> | **responsiveness** | Preview any URL across real device frames | [live](https://responsiveness-bheng.vercel.app) · [code](https://github.com/bunlongheng/responsiveness) |
 | <img src="https://www.bunlongheng.com/app-icons/tabhue.png?v=2" width="26"> | **tabhue** | Color terminal tabs by project directory - tiny Go CLI | [code](https://github.com/bunlongheng/tabhue) |
 | <img src="https://www.bunlongheng.com/app-icons/cl-poster.png?v=2" width="26"> | **cl-poster** | Craigslist post manager - templates, rotation, auto-posting | [code](https://github.com/bunlongheng/cl-poster) |
 
@@ -60,12 +60,12 @@ real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, ato
 |  | App | One line | Links |
 |---|---|---|---|
 | <img src="https://www.bunlongheng.com/app-icons/moments.png" width="26"> | **moments** | Self-hosted digital photo frame - LAN sync, Pi kiosk | [code](https://github.com/bunlongheng/moments) |
-| <img src="https://www.bunlongheng.com/app-icons/worldcup-2026.png" width="26"> | **worldcup26** | World Cup 2026 companion - flag wall, bracket, 3D globe | [live](https://worldcup26-bheng.vercel.app) · [code](https://github.com/bunlongheng/worldcup26) |
-| <img src="https://www.bunlongheng.com/app-icons/countries.png" width="26"> | **countries** | All 194 nations - flags, stats, landmarks on a map + 3D globe | [live](https://countries-bheng.vercel.app) |
-| <img src="https://country-maker-bheng.vercel.app/icon.png" width="26"> | **country-maker** | Design your own country flag - layouts, emblems, PNG export | [live](https://country-maker-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-maker) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/worldcup-2026.png" width="26"> | **worldcup26** | World Cup 2026 companion - flag wall, bracket, 3D globe | [live](https://worldcup26-bheng.vercel.app) · [code](https://github.com/bunlongheng/worldcup26) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/countries.png" width="26"> | **countries** | All 194 nations - flags, stats, landmarks on a map + 3D globe | [live](https://countries-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/country-maker.png" width="26"> | **country-maker** | Design your own country flag - layouts, emblems, PNG export | [live](https://country-maker-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-maker) |
 | <img src="https://www.bunlongheng.com/app-icons/states.png?v=1" width="26"> | **states** | All 50 US states - quiz-style explorer | [live](https://games-bheng.vercel.app/states) |
 | <img src="https://www.bunlongheng.com/app-icons/games.png" width="26"> | **games** | Browser mini-games - spelling bee, math hero, coloring island | [live](https://games-bheng.vercel.app) · [code](https://github.com/bunlongheng/games) |
-| <img src="https://www.bunlongheng.com/app-icons/pixy.png?v=2" width="26"> | **pixy** | Minecraft-pixelated shape editor for kids - iPad + Pencil | [live](https://pixy-bheng.vercel.app) · [code](https://github.com/bunlongheng/pixy) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/pixy.png" width="26"> | **pixy** | Minecraft-pixelated shape editor for kids - iPad + Pencil | [live](https://pixy-bheng.vercel.app) · [code](https://github.com/bunlongheng/pixy) |
 | <img src="https://www.bunlongheng.com/app-icons/flash-cards.png" width="26"> | **flash-cards** | Picture flashcards for kids - tap to hear it spoken | [live](https://flash-cards-bheng.vercel.app) · [code](https://github.com/bunlongheng/flash-cards) |
 
 ### How I leverage AI locally
