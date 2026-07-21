@@ -2,35 +2,46 @@
 
 # Bunlong Heng
 
-### Full-Stack Engineer · Solution Architect
+### Staff-Level Full-Stack Engineer · Solution Architect
 
-Building **AI-powered engineering platforms** and full-stack products end to end -
-with a bias for clean architecture, performance, and security.
+I build **AI engineering platforms** - agent orchestration, MCP servers, RAG memory,
+and visual-QA harnesses - and ship full-stack products end to end.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bunlongheng.com-1f5fd6?style=for-the-badge)](https://www.bunlongheng.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bunlongheng.com-1f5fd6?style=for-the-badge&logo=safari&logoColor=white)](https://www.bunlongheng.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunlongheng/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ibunlong)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheng.code@gmail.com)
 
 </div>
 
 ### What I build
 
-12+ years shipping across **frontend, backend, cloud, and security** - from concept to production.
-Currently **Engineering at Thryv**, where I architect internal AI-powered platforms that automate
-code review, deployment, testing, and repository auditing. Off the clock I build developer tools,
-RAG systems, and agent workflows. Everything below runs on my own infra (Vercel + a self-hosted VM).
+12+ years shipping across **frontend, backend, cloud, and security** - telecom platforms
+for Telus, Comcast, Telenet, and Liberty Global, then SaaS at Thryv, where I architect
+internal AI platforms that automate code review, deployment, testing, and repo auditing.
 
-### Featured projects
+Off the clock I run my own platform: **17 MCP servers**, dozens of custom agent skills,
+and the apps below - all in production on my own infra (self-hosted VM + Vercel), behind
+real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, atomic deploys).
 
-| Project | What it does | Live | Code |
+### Featured apps
+
+|  | App | One line | Links |
 |---|---|---|---|
-| **nexus** | 12-agent orchestration system for Claude Code - structured multi-agent workflows | - | [repo](https://github.com/bunlongheng/nexus) |
-| **ai-lab** | Local-first RAG "second brain" - key-free embeddings over SQLite vector search | - | [repo](https://github.com/bunlongheng/ai-lab) |
-| **system-design** | Interactive AWS / distributed-system architecture diagrams | [live](https://system-design-bheng.vercel.app) | [repo](https://github.com/bunlongheng/system-design) |
-| **diagrams** | AI-powered Mermaid diagram generator - describe it, get a diagram | [live](https://diagrams-bheng.vercel.app) | [repo](https://github.com/bunlongheng/diagrams) |
-| **stickies** | Sticky-notes board with full API, AI, and CLI integration | [live](https://stickies-bheng.vercel.app) | [repo](https://github.com/bunlongheng/stickies) |
-| **score-card** | Technical-interview scorecard with rubrics and AI-generated summaries | [live](https://score-card-bheng.vercel.app) | [repo](https://github.com/bunlongheng/score-card) |
-| **frames** | Device-mockup generator - wrap screenshots in realistic device frames | [live](https://frames-bheng.vercel.app) | [repo](https://github.com/bunlongheng/frames) |
+| <img src="https://www.bunlongheng.com/app-icons/nexus.png?v=1" width="26"> | **nexus** | 12-agent orchestration system for Claude Code | [code](https://github.com/bunlongheng/nexus) |
+| <img src="https://www.bunlongheng.com/app-icons/ai-lab.png?v=1" width="26"> | **ai-lab** | Local-first RAG second brain with its own MCP server | [code](https://github.com/bunlongheng/ai-lab) |
+| <img src="https://www.bunlongheng.com/app-icons/local-apps.png" width="26"> | **local-apps** | Self-healing dashboard for local dev infra | [code](https://github.com/bunlongheng/local-apps) |
+| <img src="https://www.bunlongheng.com/app-icons/diagrams.png" width="26"> | **diagrams** | English in, rendered diagram out - custom SVG sequence engine | [live](https://diagrams-bheng.vercel.app) · [code](https://github.com/bunlongheng/diagrams) |
+| <img src="https://www.bunlongheng.com/app-icons/system-design.png" width="26"> | **system-design** | Interactive AWS / distributed-system architecture diagrams | [live](https://system-design-bheng.vercel.app) · [code](https://github.com/bunlongheng/system-design) |
+| <img src="https://www.bunlongheng.com/app-icons/automations.png" width="26"> | **automations** | Visual node-graph automation flow builder | [code](https://github.com/bunlongheng/automations) |
+| <img src="https://www.bunlongheng.com/app-icons/score-card.png" width="26"> | **score-card** | Technical-interview scorecard with rubrics + AI summaries | [live](https://score-card-bheng.vercel.app) · [code](https://github.com/bunlongheng/score-card) |
+| <img src="https://www.bunlongheng.com/app-icons/moments.png" width="26"> | **moments** | Self-hosted digital photo frame - LAN sync, Pi kiosk deploy | [code](https://github.com/bunlongheng/moments) |
+
+<div align="center">
+
+[![Browse all 44 projects](https://img.shields.io/badge/Browse_all_44_projects-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
+
+</div>
 
 ### Stack
 
