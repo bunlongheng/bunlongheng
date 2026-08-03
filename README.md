@@ -102,7 +102,7 @@ The generic ones I reach for constantly, on any repo or machine:
 |  | Skill | What it does |
 |---|---|---|
 | <img src="https://www.bunlongheng.com/app-icons/repo-audit.png?v=1" width="26"> | `/repo‑audit` | Reverse-engineers any repo through 10 lenses into a graded report |
-| <img src="https://www.bunlongheng.com/app-icons/repo-recon.png?v=1" width="26"> | `/repo‑recon` | Tech-lead onboarding brief for any repo - how it works, no grades |
+| <img src="https://www.bunlongheng.com/app-icons/repo-recon.png?v=2" width="26"> | `/repo‑recon` | Tech-lead onboarding brief for any repo - how it works, no grades |
 | <img src="https://www.bunlongheng.com/app-icons/resource-audit.png?v=1" width="26"> | `/resource‑audit` | Finds stray processes: dup dev servers, orphaned ports, CPU/RAM hogs |
 | <img src="https://www.bunlongheng.com/app-icons/storage-audit.png?v=1" width="26"> | `/storage‑audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes on approval |
 | <img src="https://www.bunlongheng.com/app-icons/repo-public-audit.png?v=1" width="26"> | `/repo‑public‑audit` | Pre-open-source safety scan: secrets, leaks, PII, BLOCK/WARN/OK |
@@ -116,7 +116,7 @@ The generic ones I reach for constantly, on any repo or machine:
 
 <div align="center">
 
-[![Browse all 47 projects](https://img.shields.io/badge/Browse_all_47_projects-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
+[![Browse all 93 projects](https://img.shields.io/badge/Browse_all_93_projects-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
 
 </div>
 
