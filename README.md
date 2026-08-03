@@ -84,16 +84,16 @@ Top 10 of the 100+ custom Claude Code skills (slash commands) I have written - t
 
 | Skill | What it does |
 |---|---|
-| `/zeta-pr-audit` | Reviews team PRs for the worst mistakes, self-verifies each finding, stages the top 3 comments |
-| `/zeta-pr-closure` | Closure board for every open PR - buckets by whose move it is, auto-verifies author fixes |
-| `/zeta-deploy` | Step-by-step stage and prod deploy assistant with live Jira cross-referencing |
-| `/zeta-epic-audit` | Deep epic audit - live child issues, pre-sprint gates, blockers, and risks |
-| `/zeta-qa` | Silent QA tester - verifies every ticket's acceptance criteria read-only, scores quality |
-| `/zeta-standup` | Writes my daily standup from Jira, git, GitHub, and calendar |
-| `/zeta-metrics` | Sprint velocity, throughput, and cycle time in one report |
-| `/zeta-split` | Smart-splits the QA tester queue by rotation with self-test guards |
-| `/zeta-chores` | Assigns sprint roles - on-call, deploy captain, QA rotation |
-| `/zeta-activity` | Daily per-person activity report across Jira, GitHub, and Slack |
+| `/zeta‑pr‑audit` | Reviews team PRs, verifies each finding, stages the top 3 comments |
+| `/zeta‑pr‑closure` | Closure board for open PRs, tracks whose move it is, verifies fixes |
+| `/zeta‑deploy` | Stage and prod deploy assistant with live Jira cross-referencing |
+| `/zeta‑epic‑audit` | Deep epic audit: child issues, pre-sprint gates, blockers, risks |
+| `/zeta‑qa` | Silent QA tester: verifies every ticket's AC and scores quality |
+| `/zeta‑standup` | Writes my daily standup from Jira, git, GitHub, and calendar |
+| `/zeta‑metrics` | Sprint velocity, throughput, and cycle time in one report |
+| `/zeta‑split` | Smart-splits the QA tester queue by rotation with self-test guards |
+| `/zeta‑chores` | Assigns sprint roles: on-call, deploy captain, QA rotation |
+| `/zeta‑activity` | Daily per-person activity across Jira, GitHub, and Slack |
 
 ### Everyday skills
 
@@ -101,18 +101,18 @@ The generic ones I reach for constantly, on any repo or machine:
 
 | Skill | What it does |
 |---|---|
-| `/repo-audit` | Reverse-engineers any repo through 10 lenses into one graded HTML report |
-| `/repo-recon` | New-tech-lead onboarding brief for any repo - how it works, where to start, no grades |
-| `/resource-audit` | Detects stray processes - duplicate dev servers, orphaned ports, runaway CPU/RAM |
-| `/storage-audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes only on approval |
-| `/repo-public-audit` | Pre-open-source safety scan - secrets, history leaks, personal info, BLOCK/WARN/OK verdict |
-| `/repo-open-source-audit` | Turns a private repo public-ready - safety scan, MIT LICENSE, golden README, publish |
-| `/new-app` | Drives an app idea through the full lifecycle - scaffold, test, deploy, audit, publish |
-| `/session-recap` | Summarizes a working session - what we did and learned - into a polished HTML recap |
-| `/screenshots` | Crawls a URL and captures full HD screenshots in every device mode |
-| `/sitemap` | Crawls any site and emits an animated orbit-graph site map |
-| `/show-skills` | Lists every custom skill in a compact table - my toolbox index |
-| `/skill-architect` | Turns any skill into a shareable infographic |
+| `/repo‑audit` | Reverse-engineers any repo through 10 lenses into a graded report |
+| `/repo‑recon` | Tech-lead onboarding brief for any repo - how it works, no grades |
+| `/resource‑audit` | Finds stray processes: dup dev servers, orphaned ports, CPU/RAM hogs |
+| `/storage‑audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes on approval |
+| `/repo‑public‑audit` | Pre-open-source safety scan: secrets, leaks, PII, BLOCK/WARN/OK |
+| `/repo‑open‑source‑audit` | Turns a private repo public-ready: scan, LICENSE, README, publish |
+| `/new‑app` | Drives an app idea end to end: scaffold, test, deploy, audit, ship |
+| `/session‑recap` | Summarizes a working session into a polished HTML recap |
+| `/screenshots` | Captures full-HD screenshots of a URL in every device mode |
+| `/sitemap` | Crawls any site into an animated orbit-graph site map |
+| `/show‑skills` | Lists every custom skill in a compact table - my toolbox index |
+| `/skill‑architect` | Turns any skill into a shareable infographic |
 
 <div align="center">
 
