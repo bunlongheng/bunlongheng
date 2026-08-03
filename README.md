@@ -82,37 +82,37 @@ real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, ato
 
 Top 10 of the 100+ custom Claude Code skills (slash commands) I have written - these run my day as an engineering lead:
 
-| Skill | What it does |
-|---|---|
-| `/zeta‑pr‑audit` | Reviews team PRs, verifies each finding, stages the top 3 comments |
-| `/zeta‑pr‑closure` | Closure board for open PRs, tracks whose move it is, verifies fixes |
-| `/zeta‑deploy` | Stage and prod deploy assistant with live Jira cross-referencing |
-| `/zeta‑epic‑audit` | Deep epic audit: child issues, pre-sprint gates, blockers, risks |
-| `/zeta‑qa` | Silent QA tester: verifies every ticket's AC and scores quality |
-| `/zeta‑standup` | Writes my daily standup from Jira, git, GitHub, and calendar |
-| `/zeta‑metrics` | Sprint velocity, throughput, and cycle time in one report |
-| `/zeta‑split` | Smart-splits the QA tester queue by rotation with self-test guards |
-| `/zeta‑chores` | Assigns sprint roles: on-call, deploy captain, QA rotation |
-| `/zeta‑activity` | Daily per-person activity across Jira, GitHub, and Slack |
+|  | Skill | What it does |
+|---|---|---|
+| <img src="https://www.bunlongheng.com/app-icons/zeta-pr-audit.png?v=1" width="26"> | `/zeta‑pr‑audit` | Reviews team PRs, verifies each finding, stages the top 3 comments |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-pr-closure.png?v=1" width="26"> | `/zeta‑pr‑closure` | Closure board for open PRs, tracks whose move it is, verifies fixes |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-deploy.png?v=1" width="26"> | `/zeta‑deploy` | Stage and prod deploy assistant with live Jira cross-referencing |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-epic-audit.png?v=1" width="26"> | `/zeta‑epic‑audit` | Deep epic audit: child issues, pre-sprint gates, blockers, risks |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-qa.png?v=1" width="26"> | `/zeta‑qa` | Silent QA tester: verifies every ticket's AC and scores quality |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-standup.png?v=1" width="26"> | `/zeta‑standup` | Writes my daily standup from Jira, git, GitHub, and calendar |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-metrics.png?v=1" width="26"> | `/zeta‑metrics` | Sprint velocity, throughput, and cycle time in one report |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-split.png?v=1" width="26"> | `/zeta‑split` | Smart-splits the QA tester queue by rotation with self-test guards |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-chores.png?v=1" width="26"> | `/zeta‑chores` | Assigns sprint roles: on-call, deploy captain, QA rotation |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-activity.png?v=1" width="26"> | `/zeta‑activity` | Daily per-person activity across Jira, GitHub, and Slack |
 
 ### Everyday skills
 
 The generic ones I reach for constantly, on any repo or machine:
 
-| Skill | What it does |
-|---|---|
-| `/repo‑audit` | Reverse-engineers any repo through 10 lenses into a graded report |
-| `/repo‑recon` | Tech-lead onboarding brief for any repo - how it works, no grades |
-| `/resource‑audit` | Finds stray processes: dup dev servers, orphaned ports, CPU/RAM hogs |
-| `/storage‑audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes on approval |
-| `/repo‑public‑audit` | Pre-open-source safety scan: secrets, leaks, PII, BLOCK/WARN/OK |
-| `/repo‑open‑source‑audit` | Turns a private repo public-ready: scan, LICENSE, README, publish |
-| `/new‑app` | Drives an app idea end to end: scaffold, test, deploy, audit, ship |
-| `/session‑recap` | Summarizes a working session into a polished HTML recap |
-| `/screenshots` | Captures full-HD screenshots of a URL in every device mode |
-| `/sitemap` | Crawls any site into an animated orbit-graph site map |
-| `/show‑skills` | Lists every custom skill in a compact table - my toolbox index |
-| `/skill‑architect` | Turns any skill into a shareable infographic |
+|  | Skill | What it does |
+|---|---|---|
+| <img src="https://www.bunlongheng.com/app-icons/repo-audit.png?v=1" width="26"> | `/repo‑audit` | Reverse-engineers any repo through 10 lenses into a graded report |
+| <img src="https://www.bunlongheng.com/app-icons/repo-recon.png?v=1" width="26"> | `/repo‑recon` | Tech-lead onboarding brief for any repo - how it works, no grades |
+| <img src="https://www.bunlongheng.com/app-icons/resource-audit.png?v=1" width="26"> | `/resource‑audit` | Finds stray processes: dup dev servers, orphaned ports, CPU/RAM hogs |
+| <img src="https://www.bunlongheng.com/app-icons/storage-audit.png?v=1" width="26"> | `/storage‑audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes on approval |
+| <img src="https://www.bunlongheng.com/app-icons/repo-public-audit.png?v=1" width="26"> | `/repo‑public‑audit` | Pre-open-source safety scan: secrets, leaks, PII, BLOCK/WARN/OK |
+| <img src="https://www.bunlongheng.com/app-icons/repo-open-source-audit.png?v=1" width="26"> | `/repo‑open‑source‑audit` | Turns a private repo public-ready: scan, LICENSE, README, publish |
+| <img src="https://www.bunlongheng.com/app-icons/new-app.png?v=1" width="26"> | `/new‑app` | Drives an app idea end to end: scaffold, test, deploy, audit, ship |
+| <img src="https://www.bunlongheng.com/app-icons/session-recap.png?v=1" width="26"> | `/session‑recap` | Summarizes a working session into a polished HTML recap |
+| <img src="https://www.bunlongheng.com/app-icons/screenshots.png?v=1" width="26"> | `/screenshots` | Captures full-HD screenshots of a URL in every device mode |
+| <img src="https://www.bunlongheng.com/app-icons/sitemap.png?v=1" width="26"> | `/sitemap` | Crawls any site into an animated orbit-graph site map |
+| <img src="https://www.bunlongheng.com/app-icons/show-skills.png?v=1" width="26"> | `/show‑skills` | Lists every custom skill in a compact table - my toolbox index |
+| <img src="https://www.bunlongheng.com/app-icons/skill-architect.png?v=1" width="26"> | `/skill‑architect` | Turns any skill into a shareable infographic |
 
 <div align="center">
 
