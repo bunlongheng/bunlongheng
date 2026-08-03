@@ -102,9 +102,12 @@ The generic ones I reach for constantly, on any repo or machine:
 | Skill | What it does |
 |---|---|
 | `/repo-audit` | Reverse-engineers any repo through 10 lenses into one graded HTML report |
+| `/repo-recon` | New-tech-lead onboarding brief for any repo - how it works, where to start, no grades |
 | `/resource-audit` | Detects stray processes - duplicate dev servers, orphaned ports, runaway CPU/RAM |
 | `/storage-audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes only on approval |
 | `/repo-public-audit` | Pre-open-source safety scan - secrets, history leaks, personal info, BLOCK/WARN/OK verdict |
+| `/repo-open-source-audit` | Turns a private repo public-ready - safety scan, MIT LICENSE, golden README, publish |
+| `/new-app` | Drives an app idea through the full lifecycle - scaffold, test, deploy, audit, publish |
 | `/session-recap` | Summarizes a working session - what we did and learned - into a polished HTML recap |
 | `/screenshots` | Crawls a URL and captures full HD screenshots in every device mode |
 | `/sitemap` | Crawls any site and emits an animated orbit-graph site map |
@@ -113,7 +116,7 @@ The generic ones I reach for constantly, on any repo or machine:
 
 <div align="center">
 
-[![Browse all 44 projects](https://img.shields.io/badge/Browse_all_44_projects-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
+[![Browse all 47 projects](https://img.shields.io/badge/Browse_all_47_projects-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
 
 </div>
 
