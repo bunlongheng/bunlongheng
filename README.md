@@ -115,7 +115,7 @@ The generic ones I reach for constantly, on any repo or machine:
 | <img src="https://www.bunlongheng.com/app-icons/sitemap.png?v=1" width="26"> | `/sitemap` | Crawls any site into an animated orbit-graph site map |
 | <img src="https://www.bunlongheng.com/app-icons/show-skills.png?v=1" width="26"> | `/show‑skills` | Lists every custom skill in a compact table - my toolbox index |
 | <img src="https://www.bunlongheng.com/app-icons/skill-architect.png?v=1" width="26"> | `/skill‑architect` | Turns any skill into a shareable infographic |
-| `/cheat-sheet` | Single-scroll HTML study cheat sheet for any tech topic |
+| <img src="https://www.bunlongheng.com/app-icons/cheat-sheet.png?v=2" width="26"> | `/cheat-sheet` | Single-scroll HTML study cheat sheet for any tech topic |
 
 <div align="center">
 
