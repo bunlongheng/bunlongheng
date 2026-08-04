@@ -2,7 +2,7 @@
 
 # Bunlong Heng
 
-### Staff-Level Full-Stack Engineer · Solution Architect
+### Full-Stack Engineer · Solution Architect
 
 I build **AI engineering platforms** - agent orchestration, MCP servers, RAG memory,
 and visual-QA harnesses - and ship full-stack products end to end.
