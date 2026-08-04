@@ -22,13 +22,15 @@ internal AI platforms that automate code review, deployment, testing, and repo a
 
 Off the clock I run my own platform: **17 MCP servers**, dozens of custom agent skills,
 and the apps below - all in production on my own infra (self-hosted VM + Vercel), behind
-real CI gates (typecheck, lint, unit + nightly Playwright e2e, drift alerts, atomic deploys).
+real CI gates - the private platform repo runs typecheck, lint, unit + nightly Playwright e2e, drift alerts, and atomic deploys; the public flagships carry their own CI + tests.
+
+> A decade of my career (2013-2024) lives in employer and client repos; this account went public-first in late 2025, and my day job ships on a separate work account - hence the quiet stretches in the graph.
 
 ### AI + engineering platform
 
 |  | App | One line | Links |
 |---|---|---|---|
-| <img src="https://www.bunlongheng.com/app-icons/nexus.png?v=1" width="26"> | **nexus** | 12-agent orchestration system for Claude Code | [code](https://github.com/bunlongheng/nexus) |
+| <img src="https://www.bunlongheng.com/app-icons/nexus.png?v=1" width="26"> | **nexus** | 12-agent specialist config pack for Claude Code | [code](https://github.com/bunlongheng/nexus) |
 | <img src="https://www.bunlongheng.com/app-icons/ai-lab.png?v=1" width="26"> | **ai-lab** | Local-first RAG second brain with its own MCP server | [code](https://github.com/bunlongheng/ai-lab) |
 | <img src="https://www.bunlongheng.com/app-icons/diagrams.png" width="26"> | **diagrams** | English in, rendered diagram out - custom SVG sequence engine | [live](https://diagrams-bheng.vercel.app) · [code](https://github.com/bunlongheng/diagrams) |
 | <img src="https://www.bunlongheng.com/app-icons/system-design.png" width="26"> | **system-design** | Interactive AWS / distributed-system architecture diagrams | [code](https://github.com/bunlongheng/system-design) |
@@ -119,7 +121,7 @@ The generic ones I reach for constantly, on any repo or machine:
 
 <div align="center">
 
-[![Browse all 93 projects](https://img.shields.io/badge/Browse_all_93_projects-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
+[![Browse the full portfolio](https://img.shields.io/badge/Browse_the_full_portfolio-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
 
 </div>
 
