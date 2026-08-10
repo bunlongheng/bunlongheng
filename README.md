@@ -78,9 +78,9 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 
 |  | Tool | One line | Links |
 |---|---|---|---|
-| <img src="https://www.bunlongheng.com/app-icons/claude-tabs.png?v=1" width="26"> | **claude-tabs** | Color-coded, emoji-badged iTerm2 tabs - parallel Claude sessions at a glance | [about](https://bunlongheng.com/portfolio/claude-tabs) |
-| <img src="https://www.bunlongheng.com/app-icons/claude.png" width="26"> | **claude-dashboard** | Self-hosted command center for Claude Code - sessions, agents, RAG memory | [about](https://bunlongheng.com/portfolio/claude-dashboard) |
-| <img src="https://www.bunlongheng.com/app-icons/3pi.png" width="26"> | **manager-dashboard** | EM command center - sprints, PRs, team activity, and QA across repos | [about](https://bunlongheng.com/portfolio/3pi) |
+| <img src="https://www.bunlongheng.com/app-icons/claude-tabs.png?v=1" width="26"> | **claude-tabs** | Color-coded, emoji-badged iTerm2 tabs - parallel Claude sessions at a glance | [about](https://bunlongheng.com/projects/claude-tabs) |
+| <img src="https://www.bunlongheng.com/app-icons/claude.png" width="26"> | **claude-dashboard** | Self-hosted command center for Claude Code - sessions, agents, RAG memory | [about](https://bunlongheng.com/projects/claude-dashboard) |
+| <img src="https://www.bunlongheng.com/app-icons/3pi.png" width="26"> | **manager-dashboard** | EM command center - sprints, PRs, team activity, and QA across repos | [about](https://bunlongheng.com/projects/3pi) |
 
 ### Skills I built for work
 
@@ -121,7 +121,7 @@ The generic ones I reach for constantly, on any repo or machine:
 
 <div align="center">
 
-[![Browse the full portfolio](https://img.shields.io/badge/Browse_the_full_portfolio-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/portfolio)
+[![Browse the full portfolio](https://img.shields.io/badge/Browse_the_full_portfolio-bunlongheng.com%2Fportfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/projects)
 
 </div>
 
