@@ -73,6 +73,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/games.png" width="26"> | **games** | Browser mini-games - spelling bee, math hero, coloring island | [live](https://games-bheng.vercel.app) · [code](https://github.com/bunlongheng/games) |
 | <img src="https://www.bunlongheng.com/app-icons/rounded/pixy.png" width="26"> | **pixy** | Minecraft-pixelated shape editor for kids - iPad + Pencil | [live](https://pixy-bheng.vercel.app) · [code](https://github.com/bunlongheng/pixy) |
 | <img src="https://www.bunlongheng.com/app-icons/flash-cards.png" width="26"> | **flash-cards** | Picture flashcards for kids - tap to hear it spoken | [live](https://flash-cards-bheng.vercel.app) · [code](https://github.com/bunlongheng/flash-cards) |
+| <img src="https://www.bunlongheng.com/app-icons/country-defense.png" width="26"> | **country-defense** | Browser tower-defense - defend your nation's 3D flag marble across 10 stages | [live](https://country-defense-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-defense) |
 
 ### How I leverage AI locally
 
