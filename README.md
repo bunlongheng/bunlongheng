@@ -2,7 +2,7 @@
 
 # Bunlong Heng
 
-### Full-Stack Engineer · Solution Architect
+### Senior Full-Stack Developer
 
 I build **AI engineering platforms** - agent orchestration, MCP servers, RAG memory,
 and visual-QA harnesses - and ship full-stack products end to end.
