@@ -57,6 +57,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/tabhue.png?v=2" width="26"> | **tabhue** | Color terminal tabs by project directory - tiny Go CLI | [code](https://github.com/bunlongheng/tabhue) |
 | <img src="https://www.bunlongheng.com/app-icons/cl-poster.png?v=2" width="26"> | **cl-poster** | Craigslist post manager - templates, rotation, auto-posting | [code](https://github.com/bunlongheng/cl-poster) |
 | <img src="https://www.bunlongheng.com/app-icons/lanscan.png" width="26"> | **lanscan** | Pure-Rust home LAN scanner - CLI, live TUI, and an MCP server for agents | [code](https://github.com/bunlongheng/lanscan) |
+| <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev utilities in one grid: AI video/voice, PDF, JSON viz, 3D, LAN scan | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
 
 ### Fun + family
 
