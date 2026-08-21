@@ -60,6 +60,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/lanscan.png" width="26"> | **lanscan** | Pure-Rust home LAN scanner - CLI, live TUI, and an MCP server for agents | [code](https://github.com/bunlongheng/lanscan) |
 | <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev utilities in one grid: AI video/voice, PDF, JSON viz, 3D, LAN scan | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
 | <img src="https://www.bunlongheng.com/app-icons/trends.png" width="26"> | **trends** | GitHub trending as 12 animated Chart.js charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
+| <img src="https://www.bunlongheng.com/app-icons/visual-db.png" width="26"> | **visual-db** | Point any Postgres table at a self-contained HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
 
 ### Fun + family
 
