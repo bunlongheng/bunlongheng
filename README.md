@@ -42,6 +42,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/claude-live.png?v=2" width="26"> | **claude-live** | Rust WebSocket server streaming Claude Code session progress | [code](https://github.com/bunlongheng/claude-live) |
 | <img src="https://www.bunlongheng.com/app-icons/mimi.png?v=2" width="26"> | **mimi** | Live meeting transcription - karaoke captions + AI summary | [code](https://github.com/bunlongheng/mimi) |
 | <img src="https://www.bunlongheng.com/app-icons/briefly.png" width="26"> | **briefly** | Paste text, hear it read aloud, follow along word-by-word karaoke style | [live](https://briefly-bheng.vercel.app) · [code](https://github.com/bunlongheng/briefly) |
+| <img src="https://www.bunlongheng.com/app-icons/ai-security.png" width="26"> | **ai-security** | Automated OSS security audits tracked as a live, provable PR board | [code](https://github.com/bunlongheng/ai-security) |
 
 ### Tools + infra
 
