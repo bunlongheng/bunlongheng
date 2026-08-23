@@ -82,6 +82,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/country-defense.png" width="26"> | **country-defense** | Browser tower-defense - defend your nation's 3D flag marble across 10 stages | [live](https://country-defense-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-defense) |
 | <img src="https://www.bunlongheng.com/app-icons/math-hero.png" width="26"> | **math-hero** | Comic-book math game for kids: pick a hero, beat the clock | [live](https://math-hero-bheng.vercel.app) · [code](https://github.com/bunlongheng/math-hero) |
 | <img src="https://www.bunlongheng.com/app-icons/study-timer.png" width="26"> | **study-timer** | A calm, offline-ready study timer for kids with modes and confetti | [live](https://study-timer-bheng.vercel.app) · [code](https://github.com/bunlongheng/study-timer) |
+| <img src="https://www.bunlongheng.com/app-icons/geometry.png" width="26"> | **geometry** | Talking shape quiz for kids - hear it, tap it, score 100 | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
 
 ### How I leverage AI locally
 
