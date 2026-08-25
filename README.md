@@ -41,8 +41,8 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/erd.png?v=2" width="26"> | **erd** | Paste SQL CREATE TABLEs, get a polished ER diagram | [live](https://erd-bheng.vercel.app) · [code](https://github.com/bunlongheng/erd) |
 | <img src="https://www.bunlongheng.com/app-icons/claude-live.png?v=2" width="26"> | **claude-live** | Rust WebSocket server streaming Claude Code session progress | [code](https://github.com/bunlongheng/claude-live) |
 | <img src="https://www.bunlongheng.com/app-icons/mimi.png?v=2" width="26"> | **mimi** | Live meeting transcription - karaoke captions + AI summary | [code](https://github.com/bunlongheng/mimi) |
-| <img src="https://www.bunlongheng.com/app-icons/briefly.png" width="26"> | **briefly** | Paste text, hear it read aloud, follow along word-by-word karaoke style | [live](https://briefly-bheng.vercel.app) · [code](https://github.com/bunlongheng/briefly) |
-| <img src="https://www.bunlongheng.com/app-icons/ai-security.png" width="26"> | **ai-security** | Automated OSS security audits tracked as a live, provable PR board | [code](https://github.com/bunlongheng/ai-security) |
+| <img src="https://www.bunlongheng.com/app-icons/briefly.png?v=20260823" width="26"> | **briefly** | Paste text, hear it read aloud, follow along word-by-word karaoke style | [live](https://briefly-bheng.vercel.app) · [code](https://github.com/bunlongheng/briefly) |
+| <img src="https://www.bunlongheng.com/app-icons/ai-security.png?v=20260823" width="26"> | **ai-security** | Automated OSS security audits tracked as a live, provable PR board | [code](https://github.com/bunlongheng/ai-security) |
 
 ### Tools + infra
 
@@ -60,8 +60,8 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/cl-poster.png?v=2" width="26"> | **cl-poster** | Craigslist post manager - templates, rotation, auto-posting | [code](https://github.com/bunlongheng/cl-poster) |
 | <img src="https://www.bunlongheng.com/app-icons/lanscan.png" width="26"> | **lanscan** | Pure-Rust home LAN scanner - CLI, live TUI, and an MCP server for agents | [code](https://github.com/bunlongheng/lanscan) |
 | <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev utilities in one grid: AI video/voice, PDF, JSON viz, 3D, LAN scan | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
-| <img src="https://www.bunlongheng.com/app-icons/trends.png" width="26"> | **trends** | GitHub trending as 12 animated Chart.js charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
-| <img src="https://www.bunlongheng.com/app-icons/visual-db.png" width="26"> | **visual-db** | Point any Postgres table at a self-contained HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
+| <img src="https://www.bunlongheng.com/app-icons/trends.png?v=20260823" width="26"> | **trends** | GitHub trending as 12 animated Chart.js charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
+| <img src="https://www.bunlongheng.com/app-icons/visual-db.png?v=20260823" width="26"> | **visual-db** | Point any Postgres table at a self-contained HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
 
 ### Fun + family
 
@@ -82,7 +82,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/country-defense.png" width="26"> | **country-defense** | Browser tower-defense - defend your nation's 3D flag marble across 10 stages | [live](https://country-defense-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-defense) |
 | <img src="https://www.bunlongheng.com/app-icons/math-hero.png" width="26"> | **math-hero** | Comic-book math game for kids: pick a hero, beat the clock | [live](https://math-hero-bheng.vercel.app) · [code](https://github.com/bunlongheng/math-hero) |
 | <img src="https://www.bunlongheng.com/app-icons/study-timer.png" width="26"> | **study-timer** | A calm, offline-ready study timer for kids with modes and confetti | [live](https://study-timer-bheng.vercel.app) · [code](https://github.com/bunlongheng/study-timer) |
-| <img src="https://www.bunlongheng.com/app-icons/geometry.png" width="26"> | **geometry** | Talking shape quiz for kids - hear it, tap it, score 100 | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
+| <img src="https://www.bunlongheng.com/app-icons/geometry.png?v=20260823" width="26"> | **geometry** | Talking shape quiz for kids - hear it, tap it, score 100 | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
 
 ### How I leverage AI locally
 
