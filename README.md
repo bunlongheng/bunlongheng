@@ -31,66 +31,66 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 |  | App | One line | Links |
 |---|---|---|---|
 | <img src="https://www.bunlongheng.com/app-icons/nexus.png?v=1" width="26"> | **nexus** | 12-agent specialist config pack for Claude Code | [code](https://github.com/bunlongheng/nexus) |
-| <img src="https://www.bunlongheng.com/app-icons/ai-lab.png?v=1" width="26"> | **ai-lab** | Local-first RAG second brain with its own MCP server | [code](https://github.com/bunlongheng/ai-lab) |
-| <img src="https://www.bunlongheng.com/app-icons/diagrams.png" width="26"> | **diagrams** | English in, rendered diagram out - custom SVG sequence engine | [live](https://diagrams-bheng.vercel.app) · [code](https://github.com/bunlongheng/diagrams) |
-| <img src="https://www.bunlongheng.com/app-icons/system-design.png" width="26"> | **system-design** | Interactive AWS / distributed-system architecture diagrams | [code](https://github.com/bunlongheng/system-design) |
+| <img src="https://www.bunlongheng.com/app-icons/ai-lab.png?v=1" width="26"> | **ai-lab** | Local-first RAG brain with its own MCP | [code](https://github.com/bunlongheng/ai-lab) |
+| <img src="https://www.bunlongheng.com/app-icons/diagrams.png" width="26"> | **diagrams** | English in, rendered diagram out | [live](https://diagrams-bheng.vercel.app) · [code](https://github.com/bunlongheng/diagrams) |
+| <img src="https://www.bunlongheng.com/app-icons/system-design.png" width="26"> | **system-design** | Interactive system-architecture diagrams | [code](https://github.com/bunlongheng/system-design) |
 | <img src="https://www.bunlongheng.com/app-icons/automations.png" width="26"> | **automations** | Visual node-graph automation flow builder | [code](https://github.com/bunlongheng/automations) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/score-card.png" width="26"> | **score-card** | Technical-interview scorecard with rubrics + AI summaries | [live](https://score-card-bheng.vercel.app) · [code](https://github.com/bunlongheng/score-card) |
-| <img src="https://www.bunlongheng.com/app-icons/mindmaps.png" width="26"> | **mindmaps** | PWA mind-mapping studio - draw, paste, or generate with AI | [live](https://mindmaps-bheng.vercel.app) · [code](https://github.com/bunlongheng/mindmaps) |
-| <img src="https://www.bunlongheng.com/app-icons/decks.png" width="26"> | **decks** | AI slide-deck generator - topic in, polished HTML deck out | [code](https://github.com/bunlongheng/decks) |
-| <img src="https://www.bunlongheng.com/app-icons/erd.png?v=2" width="26"> | **erd** | Paste SQL CREATE TABLEs, get a polished ER diagram | [live](https://erd-bheng.vercel.app) · [code](https://github.com/bunlongheng/erd) |
-| <img src="https://www.bunlongheng.com/app-icons/claude-live.png?v=2" width="26"> | **claude-live** | Rust WebSocket server streaming Claude Code session progress | [code](https://github.com/bunlongheng/claude-live) |
-| <img src="https://www.bunlongheng.com/app-icons/mimi.png?v=2" width="26"> | **mimi** | Live meeting transcription - karaoke captions + AI summary | [code](https://github.com/bunlongheng/mimi) |
-| <img src="https://www.bunlongheng.com/app-icons/briefly.png?v=20260823" width="26"> | **briefly** | Paste text, hear it read aloud, follow along word-by-word karaoke style | [live](https://briefly-bheng.vercel.app) · [code](https://github.com/bunlongheng/briefly) |
-| <img src="https://www.bunlongheng.com/app-icons/ai-security.png?v=20260823" width="26"> | **ai-security** | Automated OSS security audits tracked as a live, provable PR board | [code](https://github.com/bunlongheng/ai-security) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/score-card.png" width="26"> | **score-card** | Interview scorecard - rubrics + AI | [live](https://score-card-bheng.vercel.app) · [code](https://github.com/bunlongheng/score-card) |
+| <img src="https://www.bunlongheng.com/app-icons/mindmaps.png" width="26"> | **mindmaps** | PWA mind-map studio - draw, paste, AI | [live](https://mindmaps-bheng.vercel.app) · [code](https://github.com/bunlongheng/mindmaps) |
+| <img src="https://www.bunlongheng.com/app-icons/decks.png" width="26"> | **decks** | AI slide-deck generator - topic to HTML | [code](https://github.com/bunlongheng/decks) |
+| <img src="https://www.bunlongheng.com/app-icons/erd.png?v=2" width="26"> | **erd** | Paste SQL, get a polished ER diagram | [live](https://erd-bheng.vercel.app) · [code](https://github.com/bunlongheng/erd) |
+| <img src="https://www.bunlongheng.com/app-icons/claude-live.png?v=2" width="26"> | **claude-live** | Rust WebSocket streaming Claude sessions | [code](https://github.com/bunlongheng/claude-live) |
+| <img src="https://www.bunlongheng.com/app-icons/mimi.png?v=2" width="26"> | **mimi** | Live meeting transcription + AI summary | [code](https://github.com/bunlongheng/mimi) |
+| <img src="https://www.bunlongheng.com/app-icons/briefly.png?v=20260823" width="26"> | **briefly** | Paste text, hear it read karaoke-style | [live](https://briefly-bheng.vercel.app) · [code](https://github.com/bunlongheng/briefly) |
+| <img src="https://www.bunlongheng.com/app-icons/ai-security.png?v=20260825" width="26"> | **ai-security** | Automated OSS security audits as a PR board | [code](https://github.com/bunlongheng/ai-security) |
 
 ### Tools + infra
 
 |  | App | One line | Links |
 |---|---|---|---|
 | <img src="https://www.bunlongheng.com/app-icons/local-apps.png" width="26"> | **local-apps** | Self-healing dashboard for local dev infra | [code](https://github.com/bunlongheng/local-apps) |
-| <img src="https://www.bunlongheng.com/app-icons/lanqr.png?v=2" width="26"> | **lanqr** | QR of your LAN dev server in the terminal - tiny Rust CLI | [code](https://github.com/bunlongheng/lanqr) |
+| <img src="https://www.bunlongheng.com/app-icons/lanqr.png?v=2" width="26"> | **lanqr** | QR of your LAN dev server - Rust CLI | [code](https://github.com/bunlongheng/lanqr) |
 | <img src="https://www.bunlongheng.com/app-icons/clip.png" width="26"> | **clip** | Tiny macOS clipboard-sync daemon over LAN | [code](https://github.com/bunlongheng/clip) |
-| <img src="https://www.bunlongheng.com/app-icons/drop.png" width="26"> | **drop** | Cross-device drop - iframeable menu UI + Swift menu-bar shell | [code](https://github.com/bunlongheng/drop-menu) |
+| <img src="https://www.bunlongheng.com/app-icons/drop.png" width="26"> | **drop** | Cross-device drop - menu UI + Swift shell | [code](https://github.com/bunlongheng/drop-menu) |
 | <img src="https://www.bunlongheng.com/app-icons/stickies-native.png?v=2" width="26"> | **stickies-native** | Native macOS sticky-notes app in SwiftUI | [code](https://github.com/bunlongheng/stickies-native) |
-| <img src="https://www.bunlongheng.com/app-icons/stickies.png" width="26"> | **stickies** | Sticky-notes platform - full API, AI rewrites, CLI + iPad | [live](https://stickies-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/stickies.png" width="26"> | **stickies** | Sticky-notes platform - API, AI, iPad | [live](https://stickies-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/frames.png" width="26"> | **frames** | Wrap screenshots in realistic device frames | [code](https://github.com/bunlongheng/frames) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/responsiveness.png" width="26"> | **responsiveness** | Preview any URL across real device frames | [live](https://responsiveness-bheng.vercel.app) · [code](https://github.com/bunlongheng/responsiveness) |
-| <img src="https://www.bunlongheng.com/app-icons/tabhue.png?v=2" width="26"> | **tabhue** | Color terminal tabs by project directory - tiny Go CLI | [code](https://github.com/bunlongheng/tabhue) |
-| <img src="https://www.bunlongheng.com/app-icons/cl-poster.png?v=2" width="26"> | **cl-poster** | Craigslist post manager - templates, rotation, auto-posting | [code](https://github.com/bunlongheng/cl-poster) |
-| <img src="https://www.bunlongheng.com/app-icons/lanscan.png" width="26"> | **lanscan** | Pure-Rust home LAN scanner - CLI, live TUI, and an MCP server for agents | [code](https://github.com/bunlongheng/lanscan) |
-| <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev utilities in one grid: AI video/voice, PDF, JSON viz, 3D, LAN scan | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
-| <img src="https://www.bunlongheng.com/app-icons/trends.png?v=20260823" width="26"> | **trends** | GitHub trending as 12 animated Chart.js charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
-| <img src="https://www.bunlongheng.com/app-icons/visual-db.png?v=20260823" width="26"> | **visual-db** | Point any Postgres table at a self-contained HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/responsiveness.png" width="26"> | **responsiveness** | Preview any URL in real device frames | [live](https://responsiveness-bheng.vercel.app) · [code](https://github.com/bunlongheng/responsiveness) |
+| <img src="https://www.bunlongheng.com/app-icons/tabhue.png?v=2" width="26"> | **tabhue** | Color terminal tabs by project - Go CLI | [code](https://github.com/bunlongheng/tabhue) |
+| <img src="https://www.bunlongheng.com/app-icons/cl-poster.png?v=2" width="26"> | **cl-poster** | Craigslist post manager with auto-posting | [code](https://github.com/bunlongheng/cl-poster) |
+| <img src="https://www.bunlongheng.com/app-icons/lanscan.png" width="26"> | **lanscan** | Pure-Rust LAN scanner - CLI, TUI, MCP | [code](https://github.com/bunlongheng/lanscan) |
+| <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev tools in one grid - AI, PDF, 3D | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
+| <img src="https://www.bunlongheng.com/app-icons/trends.png?v=20260823" width="26"> | **trends** | GitHub trending as 12 animated charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
+| <img src="https://www.bunlongheng.com/app-icons/visual-db.png?v=20260823" width="26"> | **visual-db** | Any Postgres table into an HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
 
 ### Fun + family
 
 |  | App | One line | Links |
 |---|---|---|---|
-| <img src="https://www.bunlongheng.com/app-icons/moments.png" width="26"> | **moments** | Self-hosted digital photo frame - LAN sync, Pi kiosk | [code](https://github.com/bunlongheng/moments) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/worldcup-2026.png" width="26"> | **worldcup26** | World Cup 2026 companion - flag wall, bracket, 3D globe | [live](https://worldcup26-bheng.vercel.app) · [code](https://github.com/bunlongheng/worldcup26) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/countries.png" width="26"> | **countries** | All 194 nations - flags, stats, landmarks on a map + 3D globe | [live](https://countries-bheng.vercel.app) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/solar-system.png" width="26"> | **solar-system** | Interactive solar-system explorer - planets, orbits, and facts | [live](https://solar-system-bheng.vercel.app) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/periodic-table.png" width="26"> | **periodic-table** | All 118 elements - color-coded, responsive periodic table | [live](https://periodic-table-bheng.vercel.app) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/country-maker.png" width="26"> | **country-maker** | Design your own country flag - layouts, emblems, PNG export | [live](https://country-maker-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-maker) |
-| <img src="https://www.bunlongheng.com/app-icons/country-pool.png?v=1" width="26"> | **pool** | Pool where every ball is a 3D country flag - WebGL billiards | [live](https://pool-bheng.vercel.app) · [code](https://github.com/bunlongheng/pool) |
-| <img src="https://www.bunlongheng.com/app-icons/country-racer.png?v=1" width="26"> | **racer** | 10 country flags race as 3D marbles to a podium - a kids game | [live](https://racer-bheng.vercel.app) · [code](https://github.com/bunlongheng/racer) |
+| <img src="https://www.bunlongheng.com/app-icons/moments.png" width="26"> | **moments** | Self-hosted photo frame - LAN, Pi kiosk | [code](https://github.com/bunlongheng/moments) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/worldcup-2026.png" width="26"> | **worldcup26** | World Cup 2026 - flags, bracket, 3D globe | [live](https://worldcup26-bheng.vercel.app) · [code](https://github.com/bunlongheng/worldcup26) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/countries.png" width="26"> | **countries** | All 194 nations - flags, stats, 3D globe | [live](https://countries-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/solar-system.png" width="26"> | **solar-system** | Interactive solar-system explorer | [live](https://solar-system-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/periodic-table.png" width="26"> | **periodic-table** | All 118 elements - responsive table | [live](https://periodic-table-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/country-maker.png" width="26"> | **country-maker** | Design a country flag - emblems, export | [live](https://country-maker-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-maker) |
+| <img src="https://www.bunlongheng.com/app-icons/country-pool.png?v=1" width="26"> | **pool** | 3D WebGL billiards with country-flag balls | [live](https://pool-bheng.vercel.app) · [code](https://github.com/bunlongheng/pool) |
+| <img src="https://www.bunlongheng.com/app-icons/country-racer.png?v=20260825" width="26"> | **racer** | 10 flag marbles race to a podium - kids game | [live](https://racer-bheng.vercel.app) · [code](https://github.com/bunlongheng/racer) |
 | <img src="https://www.bunlongheng.com/app-icons/states.png?v=1" width="26"> | **states** | All 50 US states - quiz-style explorer | [live](https://games-bheng.vercel.app/states) |
-| <img src="https://www.bunlongheng.com/app-icons/games.png" width="26"> | **games** | Browser mini-games - spelling bee, math hero, coloring island | [live](https://games-bheng.vercel.app) · [code](https://github.com/bunlongheng/games) |
-| <img src="https://www.bunlongheng.com/app-icons/rounded/pixy.png" width="26"> | **pixy** | Minecraft-pixelated shape editor for kids - iPad + Pencil | [live](https://pixy-bheng.vercel.app) · [code](https://github.com/bunlongheng/pixy) |
-| <img src="https://www.bunlongheng.com/app-icons/flash-cards.png" width="26"> | **flash-cards** | Picture flashcards for kids - tap to hear it spoken | [live](https://flash-cards-bheng.vercel.app) · [code](https://github.com/bunlongheng/flash-cards) |
-| <img src="https://www.bunlongheng.com/app-icons/country-defense.png" width="26"> | **country-defense** | Browser tower-defense - defend your nation's 3D flag marble across 10 stages | [live](https://country-defense-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-defense) |
-| <img src="https://www.bunlongheng.com/app-icons/math-hero.png" width="26"> | **math-hero** | Comic-book math game for kids: pick a hero, beat the clock | [live](https://math-hero-bheng.vercel.app) · [code](https://github.com/bunlongheng/math-hero) |
-| <img src="https://www.bunlongheng.com/app-icons/study-timer.png" width="26"> | **study-timer** | A calm, offline-ready study timer for kids with modes and confetti | [live](https://study-timer-bheng.vercel.app) · [code](https://github.com/bunlongheng/study-timer) |
-| <img src="https://www.bunlongheng.com/app-icons/geometry.png?v=20260823" width="26"> | **geometry** | Talking shape quiz for kids - hear it, tap it, score 100 | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
+| <img src="https://www.bunlongheng.com/app-icons/games.png" width="26"> | **games** | Browser mini-games for kids | [live](https://games-bheng.vercel.app) · [code](https://github.com/bunlongheng/games) |
+| <img src="https://www.bunlongheng.com/app-icons/rounded/pixy.png" width="26"> | **pixy** | Pixelated shape editor for kids - iPad | [live](https://pixy-bheng.vercel.app) · [code](https://github.com/bunlongheng/pixy) |
+| <img src="https://www.bunlongheng.com/app-icons/flash-cards.png" width="26"> | **flash-cards** | Picture flashcards for kids - tap to hear | [live](https://flash-cards-bheng.vercel.app) · [code](https://github.com/bunlongheng/flash-cards) |
+| <img src="https://www.bunlongheng.com/app-icons/country-defense.png?v=20260825" width="26"> | **country-defense** | Tower-defense - guard your 3D flag, 10 stages | [live](https://country-defense-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-defense) |
+| <img src="https://www.bunlongheng.com/app-icons/math-hero.png" width="26"> | **math-hero** | Comic-book math game for kids | [live](https://math-hero-bheng.vercel.app) · [code](https://github.com/bunlongheng/math-hero) |
+| <img src="https://www.bunlongheng.com/app-icons/study-timer.png?v=20260825" width="26"> | **study-timer** | Calm offline study timer for kids | [live](https://study-timer-bheng.vercel.app) · [code](https://github.com/bunlongheng/study-timer) |
+| <img src="https://www.bunlongheng.com/app-icons/geometry.png?v=20260823" width="26"> | **geometry** | Talking shape quiz for kids | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
 
 ### How I leverage AI locally
 
 |  | Tool | One line | Links |
 |---|---|---|---|
-| <img src="https://www.bunlongheng.com/app-icons/claude-tabs.png?v=1" width="26"> | **claude-tabs** | Color-coded, emoji-badged iTerm2 tabs - parallel Claude sessions at a glance | [about](https://bunlongheng.com/projects/claude-tabs) |
-| <img src="https://www.bunlongheng.com/app-icons/claude.png" width="26"> | **claude-dashboard** | Self-hosted command center for Claude Code - sessions, agents, RAG memory | [about](https://bunlongheng.com/projects/claude-dashboard) |
-| <img src="https://www.bunlongheng.com/app-icons/3pi.png" width="26"> | **manager-dashboard** | EM command center - sprints, PRs, team activity, and QA across repos | [about](https://bunlongheng.com/projects/3pi) |
+| <img src="https://www.bunlongheng.com/app-icons/claude-tabs.png?v=1" width="26"> | **claude-tabs** | Emoji-coded iTerm2 tabs for parallel Claude | [about](https://bunlongheng.com/projects/claude-tabs) |
+| <img src="https://www.bunlongheng.com/app-icons/claude.png" width="26"> | **claude-dashboard** | Command center for Claude Code - sessions, RAG | [about](https://bunlongheng.com/projects/claude-dashboard) |
+| <img src="https://www.bunlongheng.com/app-icons/3pi.png" width="26"> | **manager-dashboard** | EM command center - sprints, PRs, QA | [about](https://bunlongheng.com/projects/3pi) |
 
 ### Skills I built for work
 
@@ -98,16 +98,16 @@ Top 10 of the 100+ custom Claude Code skills (slash commands) I have written - t
 
 |  | Skill | What it does |
 |---|---|---|
-| <img src="https://www.bunlongheng.com/app-icons/zeta-pr-audit.png?v=1" width="26"> | `/zeta‑pr‑audit` | Reviews team PRs, verifies each finding, stages the top 3 comments |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-pr-closure.png?v=1" width="26"> | `/zeta‑pr‑closure` | Closure board for open PRs, tracks whose move it is, verifies fixes |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-deploy.png?v=1" width="26"> | `/zeta‑deploy` | Stage and prod deploy assistant with live Jira cross-referencing |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-epic-audit.png?v=1" width="26"> | `/zeta‑epic‑audit` | Deep epic audit: child issues, pre-sprint gates, blockers, risks |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-qa.png?v=1" width="26"> | `/zeta‑qa` | Silent QA tester: verifies every ticket's AC and scores quality |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-standup.png?v=1" width="26"> | `/zeta‑standup` | Writes my daily standup from Jira, git, GitHub, and calendar |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-metrics.png?v=1" width="26"> | `/zeta‑metrics` | Sprint velocity, throughput, and cycle time in one report |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-split.png?v=1" width="26"> | `/zeta‑split` | Smart-splits the QA tester queue by rotation with self-test guards |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-chores.png?v=1" width="26"> | `/zeta‑chores` | Assigns sprint roles: on-call, deploy captain, QA rotation |
-| <img src="https://www.bunlongheng.com/app-icons/zeta-activity.png?v=1" width="26"> | `/zeta‑activity` | Daily per-person activity across Jira, GitHub, and Slack |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-pr-audit.png?v=1" width="26"> | `/zeta‑pr‑audit` | Reviews team PRs, stages the top 3 |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-pr-closure.png?v=1" width="26"> | `/zeta‑pr‑closure` | Closure board for open PRs - whose move |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-deploy.png?v=1" width="26"> | `/zeta‑deploy` | Stage + prod deploy with Jira cross-ref |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-epic-audit.png?v=1" width="26"> | `/zeta‑epic‑audit` | Deep epic audit - issues, gates, blockers |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-qa.png?v=1" width="26"> | `/zeta‑qa` | Silent QA - verifies AC, scores quality |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-standup.png?v=1" width="26"> | `/zeta‑standup` | Writes my standup from Jira, git, calendar |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-metrics.png?v=1" width="26"> | `/zeta‑metrics` | Sprint velocity, throughput, cycle time |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-split.png?v=1" width="26"> | `/zeta‑split` | Smart-splits the QA queue by rotation |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-chores.png?v=1" width="26"> | `/zeta‑chores` | Assigns sprint roles - on-call, deploy, QA |
+| <img src="https://www.bunlongheng.com/app-icons/zeta-activity.png?v=1" width="26"> | `/zeta‑activity` | Daily activity - Jira, GitHub, Slack |
 
 ### Everyday skills
 
@@ -115,19 +115,19 @@ The generic ones I reach for constantly, on any repo or machine:
 
 |  | Skill | What it does |
 |---|---|---|
-| <img src="https://www.bunlongheng.com/app-icons/repo-audit.png?v=1" width="26"> | `/repo‑audit` | Reverse-engineers any repo through 10 lenses into a graded report |
-| <img src="https://www.bunlongheng.com/app-icons/repo-recon.png?v=2" width="26"> | `/repo‑recon` | Tech-lead onboarding brief for any repo - how it works, no grades |
-| <img src="https://www.bunlongheng.com/app-icons/resource-audit.png?v=1" width="26"> | `/resource‑audit` | Finds stray processes: dup dev servers, orphaned ports, CPU/RAM hogs |
-| <img src="https://www.bunlongheng.com/app-icons/storage-audit.png?v=1" width="26"> | `/storage‑audit` | Scans disk usage, classifies SAFE/REVIEW/KEEP, deletes on approval |
-| <img src="https://www.bunlongheng.com/app-icons/repo-public-audit.png?v=1" width="26"> | `/repo‑public‑audit` | Pre-open-source safety scan: secrets, leaks, PII, BLOCK/WARN/OK |
-| <img src="https://www.bunlongheng.com/app-icons/repo-open-source-audit.png?v=1" width="26"> | `/repo‑open‑source‑audit` | Turns a private repo public-ready: scan, LICENSE, README, publish |
-| <img src="https://www.bunlongheng.com/app-icons/new-app.png?v=1" width="26"> | `/new‑app` | Drives an app idea end to end: scaffold, test, deploy, audit, ship |
-| <img src="https://www.bunlongheng.com/app-icons/session-recap.png?v=1" width="26"> | `/session‑recap` | Summarizes a working session into a polished HTML recap |
-| <img src="https://www.bunlongheng.com/app-icons/screenshots.png?v=1" width="26"> | `/screenshots` | Captures full-HD screenshots of a URL in every device mode |
-| <img src="https://www.bunlongheng.com/app-icons/sitemap.png?v=1" width="26"> | `/sitemap` | Crawls any site into an animated orbit-graph site map |
-| <img src="https://www.bunlongheng.com/app-icons/show-skills.png?v=1" width="26"> | `/show‑skills` | Lists every custom skill in a compact table - my toolbox index |
+| <img src="https://www.bunlongheng.com/app-icons/repo-audit.png?v=1" width="26"> | `/repo‑audit` | Grades any repo across 10 lenses |
+| <img src="https://www.bunlongheng.com/app-icons/repo-recon.png?v=20260825" width="26"> | `/repo‑recon` | Tech-lead onboarding brief for any repo |
+| <img src="https://www.bunlongheng.com/app-icons/resource-audit.png?v=1" width="26"> | `/resource‑audit` | Finds stray processes - servers, ports, hogs |
+| <img src="https://www.bunlongheng.com/app-icons/storage-audit.png?v=1" width="26"> | `/storage‑audit` | Scans disk, deletes on approval |
+| <img src="https://www.bunlongheng.com/app-icons/repo-public-audit.png?v=1" width="26"> | `/repo‑public‑audit` | Pre-public scan - secrets, PII, leaks |
+| <img src="https://www.bunlongheng.com/app-icons/repo-open-source-audit.png?v=1" width="26"> | `/repo‑open‑source‑audit` | Makes a repo public-ready, then publishes |
+| <img src="https://www.bunlongheng.com/app-icons/new-app.png?v=20260825" width="26"> | `/new‑app` | Idea to shipped app - scaffold, deploy |
+| <img src="https://www.bunlongheng.com/app-icons/session-recap.png?v=1" width="26"> | `/session‑recap` | Summarizes a work session into HTML |
+| <img src="https://www.bunlongheng.com/app-icons/screenshots.png?v=1" width="26"> | `/screenshots` | Full-HD screenshots, every device mode |
+| <img src="https://www.bunlongheng.com/app-icons/sitemap.png?v=1" width="26"> | `/sitemap` | Crawls any site into an orbit-graph map |
+| <img src="https://www.bunlongheng.com/app-icons/show-skills.png?v=1" width="26"> | `/show‑skills` | Lists every custom skill in one table |
 | <img src="https://www.bunlongheng.com/app-icons/skill-architect.png?v=1" width="26"> | `/skill‑architect` | Turns any skill into a shareable infographic |
-| <img src="https://www.bunlongheng.com/app-icons/cheat-sheet.png?v=2" width="26"> | `/cheat-sheet` | Single-scroll HTML study cheat sheet for any tech topic |
+| <img src="https://www.bunlongheng.com/app-icons/cheat-sheet.png?v=20260825" width="26"> | `/cheat-sheet` | Single-scroll study cheat sheet, any topic |
 
 <div align="center">
 
