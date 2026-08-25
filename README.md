@@ -62,6 +62,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev tools in one grid - AI, PDF, 3D | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
 | <img src="https://www.bunlongheng.com/app-icons/trends.png?v=20260823" width="26"> | **trends** | GitHub trending as 12 animated charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
 | <img src="https://www.bunlongheng.com/app-icons/visual-db.png?v=20260823" width="26"> | **visual-db** | Any Postgres table into an HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
+| <img src="https://www.bunlongheng.com/app-icons/badges.png" width="26"> | **badges** | Print-ready badge & sticker sheet maker - photos to PDF, in browser | [live](https://badges-bheng.vercel.app) · [code](https://github.com/bunlongheng/badges) |
 
 ### Fun + family
 
