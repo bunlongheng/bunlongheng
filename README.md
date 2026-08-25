@@ -131,7 +131,7 @@ The generic ones I reach for constantly, on any repo or machine:
 
 <div align="center">
 
-[![Browse the full portfolio](https://img.shields.io/badge/Browse_the_full_portfolio-bunlongheng.com%2Fprojects-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/projects)
+[![See all projects](https://img.shields.io/badge/See_all_projects-bunlongheng.com%2Fprojects-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://bunlongheng.com/projects)
 
 </div>
 
