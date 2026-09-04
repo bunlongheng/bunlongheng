@@ -129,6 +129,7 @@ The generic ones I reach for constantly, on any repo or machine:
 | <img src="https://www.bunlongheng.com/app-icons/show-skills.png?v=1" width="26"> | `/show‑skills` | Lists every custom skill in one table |
 | <img src="https://www.bunlongheng.com/app-icons/skill-architect.png?v=1" width="26"> | `/skill‑architect` | Turns any skill into a shareable infographic |
 | <img src="https://www.bunlongheng.com/app-icons/cheat-sheet.png?v=20260825" width="26"> | `/cheat-sheet` | Single-scroll study cheat sheet, any topic |
+| <img src="https://www.bunlongheng.com/app-icons/portfolio-audit.png?v=1" width="26"> | `/portfolio-audit` | Grades a live portfolio site like a hiring manager, then a QA lead |
 
 <div align="center">
 
