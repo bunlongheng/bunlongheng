@@ -64,6 +64,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/visual-db.png?v=20260823" width="26"> | **visual-db** | Any Postgres table into an HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
 | <img src="https://www.bunlongheng.com/app-icons/badges.png" width="26"> | **badges** | Print-ready badge & sticker sheet maker - photos to PDF, in browser | [live](https://badges-bheng.vercel.app) · [code](https://github.com/bunlongheng/badges) |
 | <img src="https://www.bunlongheng.com/app-icons/capture.png" width="26"> | **capture** | Screen recorder that streams MP4 or GIF straight to a folder you pick | [live](https://capture-bheng.vercel.app) · [code](https://github.com/bunlongheng/capture) |
+| <img src="https://www.bunlongheng.com/app-icons/emulator.png" width="26"> | **emulator** | Chrome extension that frames the live tab in a photoreal Apple device | [code](https://github.com/bunlongheng/emulator) |
 
 ### Fun + family
 
