@@ -43,6 +43,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/mimi.png?v=2" width="26"> | **mimi** | Live meeting transcription + AI summary | [code](https://github.com/bunlongheng/mimi) |
 | <img src="https://www.bunlongheng.com/app-icons/briefly.png?v=20260823" width="26"> | **briefly** | Paste text, hear it read karaoke-style | [live](https://briefly-bheng.vercel.app) · [code](https://github.com/bunlongheng/briefly) |
 | <img src="https://www.bunlongheng.com/app-icons/ai-security.png?v=20260825" width="26"> | **ai-security** | Automated OSS security audits as a PR board | [code](https://github.com/bunlongheng/ai-security) |
+| <img src="https://www.bunlongheng.com/app-icons/cheatsheet.png" width="26"> | **cheatsheet** | Printable study sheets for any tech topic, 2 sides of paper | [live](https://cheat-sheet-bheng.vercel.app) · [code](https://github.com/bunlongheng/cheat-sheet) |
 
 ### Tools + infra
 
