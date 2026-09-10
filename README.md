@@ -62,11 +62,11 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/tabhue.png?v=2" width="26"> | **tabhue** | Color terminal tabs by project - Go CLI | [code](https://github.com/bunlongheng/tabhue) |
 | <img src="https://www.bunlongheng.com/app-icons/cl-poster.png?v=2" width="26"> | **cl-poster** | Craigslist post manager with auto-posting | [code](https://github.com/bunlongheng/cl-poster) |
 | <img src="https://www.bunlongheng.com/app-icons/lanscan.png" width="26"> | **lanscan** | Pure-Rust LAN scanner - CLI, TUI, MCP | [code](https://github.com/bunlongheng/lanscan) |
-| <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev tools in one grid - AI, PDF, 3D | [live](https://tools-bheng.vercel.app) · [code](https://github.com/bunlongheng/tools) |
+| <img src="https://www.bunlongheng.com/app-icons/tools.png" width="26"> | **web-tools** | 30+ dev tools in one grid - AI, PDF, 3D | [live](https://tools-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/trends.png?v=20260823" width="26"> | **trends** | GitHub trending as 12 animated charts | [live](https://trends-bheng.vercel.app) · [code](https://github.com/bunlongheng/trends) |
 | <img src="https://www.bunlongheng.com/app-icons/visual-db.png?v=20260823" width="26"> | **visual-db** | Any Postgres table into an HTML dashboard | [code](https://github.com/bunlongheng/visual-db) |
 | <img src="https://www.bunlongheng.com/app-icons/badges.png" width="26"> | **badges** | Print-ready badge & sticker sheet maker - photos to PDF, in browser | [live](https://badges-bheng.vercel.app) · [code](https://github.com/bunlongheng/badges) |
-| <img src="https://www.bunlongheng.com/app-icons/capture.png" width="26"> | **capture** | Screen recorder that streams MP4 or GIF straight to a folder you pick | [live](https://capture-bheng.vercel.app) · [code](https://github.com/bunlongheng/capture) |
+| <img src="https://www.bunlongheng.com/app-icons/capture.png" width="26"> | **capture** | Screen recorder that streams MP4 or GIF straight to a folder you pick | [live](https://capture-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/emulator.png" width="26"> | **emulator** | Chrome extension that frames the live tab in a photoreal Apple device | [code](https://github.com/bunlongheng/emulator) |
 
 ### Fun + family
@@ -81,7 +81,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/rounded/country-maker.png" width="26"> | **country-maker** | Design a country flag - emblems, export | [live](https://country-maker-bheng.vercel.app) · [code](https://github.com/bunlongheng/country-maker) |
 | <img src="https://www.bunlongheng.com/app-icons/country-pool.png?v=1" width="26"> | **pool** | 3D WebGL billiards with country-flag balls | [live](https://pool-bheng.vercel.app) · [code](https://github.com/bunlongheng/pool) |
 | <img src="https://www.bunlongheng.com/app-icons/country-racer.png?v=20260825" width="26"> | **racer** | 10 flag marbles race to a podium - kids game | [live](https://racer-bheng.vercel.app) · [code](https://github.com/bunlongheng/racer) |
-| <img src="https://www.bunlongheng.com/app-icons/states.png?v=1" width="26"> | **states** | All 50 US states - quiz-style explorer | [live](https://games-bheng.vercel.app/states) |
+| <img src="https://www.bunlongheng.com/app-icons/states.png?v=1" width="26"> | **states** | All 50 US states - quiz-style explorer | [live](https://us-states-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/games.png" width="26"> | **games** | Browser mini-games for kids | [live](https://games-bheng.vercel.app) · [code](https://github.com/bunlongheng/games) |
 | <img src="https://www.bunlongheng.com/app-icons/rounded/pixy.png" width="26"> | **pixy** | Pixelated shape editor for kids - iPad | [live](https://pixy-bheng.vercel.app) · [code](https://github.com/bunlongheng/pixy) |
 | <img src="https://www.bunlongheng.com/app-icons/flash-cards.png" width="26"> | **flash-cards** | Picture flashcards for kids - tap to hear | [live](https://flash-cards-bheng.vercel.app) · [code](https://github.com/bunlongheng/flash-cards) |
@@ -134,7 +134,6 @@ The generic ones I reach for constantly, on any repo or machine:
 | <img src="https://www.bunlongheng.com/app-icons/show-skills.png?v=1" width="26"> | `/show‑skills` | Lists every custom skill in one table |
 | <img src="https://www.bunlongheng.com/app-icons/skill-architect.png?v=1" width="26"> | `/skill‑architect` | Turns any skill into a shareable infographic |
 | <img src="https://www.bunlongheng.com/app-icons/cheat-sheet.png?v=20260825" width="26"> | `/cheat-sheet` | Single-scroll study cheat sheet, any topic |
-| <img src="https://www.bunlongheng.com/app-icons/portfolio-audit.png?v=1" width="26"> | `/portfolio-audit` | Grades a live portfolio site like a hiring manager, then a QA lead |
 
 <div align="center">
 
