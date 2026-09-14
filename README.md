@@ -55,7 +55,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/lanqr.png?v=2" width="26"> | **lanqr** | QR of your LAN dev server - Rust CLI | [code](https://github.com/bunlongheng/lanqr) |
 | <img src="https://www.bunlongheng.com/app-icons/clip.png" width="26"> | **clip** | Tiny macOS clipboard-sync daemon over LAN | [code](https://github.com/bunlongheng/clip) |
 | <img src="https://www.bunlongheng.com/app-icons/drop.png" width="26"> | **drop** | Cross-device drop - menu UI + Swift shell | [code](https://github.com/bunlongheng/drop-menu) |
-| <img src="https://www.bunlongheng.com/app-icons/stickies-native.png?v=2" width="26"> | **stickies-native** | Native macOS sticky-notes app in SwiftUI | [code](https://github.com/bunlongheng/stickies-native) |
+| <img src="https://www.bunlongheng.com/app-icons/noto.png?v=2" width="26"> | **noto** | Fast read-only macOS reader for every Stickies note, in SwiftUI | [code](https://github.com/bunlongheng/noto) |
 | <img src="https://www.bunlongheng.com/app-icons/stickies.png" width="26"> | **stickies** | Sticky-notes platform - API, AI, iPad | [live](https://stickies-bheng.vercel.app) |
 | <img src="https://www.bunlongheng.com/app-icons/frames.png" width="26"> | **frames** | Wrap screenshots in realistic device frames | [code](https://github.com/bunlongheng/frames) |
 | <img src="https://www.bunlongheng.com/app-icons/rounded/responsiveness.png" width="26"> | **responsiveness** | Preview any URL in real device frames | [live](https://responsiveness-bheng.vercel.app) · [code](https://github.com/bunlongheng/responsiveness) |
