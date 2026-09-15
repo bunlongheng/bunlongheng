@@ -46,6 +46,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/cheatsheet.png" width="26"> | **cheatsheet** | Printable study sheets for any tech topic, 2 sides of paper | [live](https://cheat-sheet-bheng.vercel.app) · [code](https://github.com/bunlongheng/cheat-sheet) |
 | <img src="https://www.bunlongheng.com/app-icons/brushup.png" width="26"> | **brushup** | Interview practice: 110 lessons in 11 tracks, run live next to real source | [live](https://brushup-bheng.vercel.app) · [code](https://github.com/bunlongheng/brushup) |
 | <img src="https://www.bunlongheng.com/app-icons/study.png" width="26"> | **study** | Interview sheets written to be spoken, printable as real Letter pages | [live](https://study-bheng.vercel.app) · [code](https://github.com/bunlongheng/study) |
+| <img src="https://www.bunlongheng.com/app-icons/launchkit.png" width="26"> | **launchkit** | Turn an app idea into ready-to-paste Claude Code prompts | [live](https://launchkit-bheng.vercel.app) · [code](https://github.com/bunlongheng/launchkit) |
 
 ### Tools + infra
 
