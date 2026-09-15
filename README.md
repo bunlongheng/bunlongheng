@@ -90,6 +90,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/math-hero.png" width="26"> | **math-hero** | Comic-book math game for kids | [live](https://math-hero-bheng.vercel.app) · [code](https://github.com/bunlongheng/math-hero) |
 | <img src="https://www.bunlongheng.com/app-icons/study-timer.png?v=20260825" width="26"> | **study-timer** | Calm offline study timer for kids | [live](https://study-timer-bheng.vercel.app) · [code](https://github.com/bunlongheng/study-timer) |
 | <img src="https://www.bunlongheng.com/app-icons/geometry.png?v=20260823" width="26"> | **geometry** | Talking shape quiz for kids | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
+| <img src="https://www.bunlongheng.com/app-icons/drawing.png" width="26"> | **drawing** | Neon sketchpad for Apple Pencil - pressure glow, replay, MP4 | [live](https://drawing-bheng.vercel.app) · [code](https://github.com/bunlongheng/drawing) |
 
 ### How I leverage AI locally
 
