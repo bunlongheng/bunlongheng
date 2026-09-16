@@ -93,6 +93,7 @@ real CI gates - the private platform repo runs typecheck, lint, unit + nightly P
 | <img src="https://www.bunlongheng.com/app-icons/geometry.png?v=20260823" width="26"> | **geometry** | Talking shape quiz for kids | [live](https://geometry-bheng.vercel.app) · [code](https://github.com/bunlongheng/geometry) |
 | <img src="https://www.bunlongheng.com/app-icons/drawing.png" width="26"> | **drawing** | Neon sketchpad for Apple Pencil - pressure glow, replay, MP4 | [live](https://drawing-bheng.vercel.app) · [code](https://github.com/bunlongheng/drawing) |
 | <img src="https://www.bunlongheng.com/app-icons/soccer.png" width="26"> | **soccer** | Kids trainer that speaks every soccer position aloud on a live pitch | [live](https://soccer-bheng.vercel.app) |
+| <img src="https://www.bunlongheng.com/app-icons/ice-creams.png" width="26"> | **ice-creams** | A pretend-play 3D ice cream shop built for a toddler | [live](https://ice-creams.vercel.app) · [code](https://github.com/bunlongheng/ice-creams) |
 
 ### How I leverage AI locally
 
